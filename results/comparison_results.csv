@@ -1,0 +1,16 @@
+method,client_ipv6,success,processing_time_ms,details
+Dual Stack,2001:db8:1::1,True,0.0448,No temporary IPv4 allocation
+Dual Stack,2001:db8:1::2,True,0.0423,No temporary IPv4 allocation
+Dual Stack,2001:db8:1::3,True,0.0112,No temporary IPv4 allocation
+Dual Stack,2001:db8:1::4,True,0.0084,No temporary IPv4 allocation
+Dual Stack,2001:db8:1::5,True,0.0093,No temporary IPv4 allocation
+Basic Tunneling,2001:db8:1::1,True,0.0074,Simulated encapsulation and decapsulation
+Basic Tunneling,2001:db8:1::2,True,0.0028,Simulated encapsulation and decapsulation
+Basic Tunneling,2001:db8:1::3,True,0.0014,Simulated encapsulation and decapsulation
+Basic Tunneling,2001:db8:1::4,True,0.0011,Simulated encapsulation and decapsulation
+Basic Tunneling,2001:db8:1::5,True,0.0012,Simulated encapsulation and decapsulation
+DSTM-Inspired,2001:db8:1::1,True,0.0047,Temporary IPv4 allocated: 192.0.2.10
+DSTM-Inspired,2001:db8:1::2,True,0.0019,Temporary IPv4 allocated: 192.0.2.11
+DSTM-Inspired,2001:db8:1::3,True,0.001,Temporary IPv4 allocated: 192.0.2.12
+DSTM-Inspired,2001:db8:1::4,False,0.0005,Address pool exhausted
+DSTM-Inspired,2001:db8:1::5,False,0.0004,Address pool exhausted

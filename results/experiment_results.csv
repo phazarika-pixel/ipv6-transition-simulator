@@ -1,0 +1,6 @@
+roll_no,client_ipv6,server_ipv4,temporary_ipv4,success,processing_time_ms,details
+MCAM/033,2001:db8:1::1,192.0.2.100,192.0.2.10,True,0.0272,Temporary IPv4 allocated
+MCAM/033,2001:db8:1::2,192.0.2.100,192.0.2.11,True,0.0226,Temporary IPv4 allocated
+MCAM/033,2001:db8:1::3,192.0.2.100,192.0.2.12,True,0.0085,Temporary IPv4 allocated
+MCAM/033,2001:db8:1::4,192.0.2.100,,False,0.0062,Address pool exhausted
+MCAM/033,2001:db8:1::5,192.0.2.100,,False,0.0063,Address pool exhausted
