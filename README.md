@@ -80,8 +80,8 @@ The command-line simulator and allocation experiment primarily use Python's stan
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cn-is-ipv6-transition-simulator.git
-cd cn-is-ipv6-transition-simulator
+git clone https://github.com/YOUR-USERNAME/ipv6-transition-simulator.git
+cd ipv6-transition-simulator
 ```
 
 Replace `YOUR-USERNAME` with the GitHub username associated with the repository.
